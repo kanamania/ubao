@@ -1,2 +1,2 @@
-# ubao
+# Ubao
 Mini gallery site
